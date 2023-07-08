@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: "README.md"
+      type: "pages"
+    values:
+      description: "A command-line chat tool for coding with GPT"
