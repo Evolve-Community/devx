@@ -1,0 +1,2 @@
+[console_scripts]
+devx = devx.main:main
